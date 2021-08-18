@@ -1,0 +1,35 @@
+OX_2829935880({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"https://ox-delivery-prod-1-us-central1.openx.net/{medium}/1.0/{rtype}?ai=c070c8e5-70e9-4a49-ac97-4082e4919c7e&ph=36f43d7a-82bf-4fdf-8a09-9bd06a2b981b&ts={txn_state}",
+    "pixels":"https://us-u.openx.net/w/1.0/pd?plm=6&ph=36f43d7a-82bf-4fdf-8a09-9bd06a2b981b&gdpr=0",
+    "oxt": 73.511,
+    "adunits" : [
+      {
+        "auid":"539217310",
+        "idx":"0",
+        "chain_revenue":"",
+        "chain":[
+          {
+            "is_fallback":1,
+            "ad_id":"0",
+            "adv_acct_id":"",
+            "is_ng":1,
+            "adv_id":":",
+            "brand_id":"",
+            "cpipc":0,
+            "auct_win_is_deal":0,
+            "pub_rev":"",
+            "width":"728",
+            "height":"90",
+            "html":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-5812357352335075\";\n/* OpenX Passback */\ngoogle_ad_slot = \"7020159998\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n",
+            "target":"_blank",
+            "ts":"2DAABBgABAAECAAIBAAsAAgAAAGUcGAoyT1dSVmRXYldNHBaclLKG6KXW1ucBFuft7Yzgu8TFpQEAHBbGhvKF7dK4tiwWx9-FxuDn2rOJAQAWut3P2wsVAhEALBwVAgAAHCa8tp6CBBUEFQQm7OabggQW2uabggQAAAA",
+            "type":"html",
+            "ad_url":"<script type=\"text/javascript\"><!--\ngoogle_ad_client = \"ca-pub-5812357352335075\";\n/* OpenX Passback */\ngoogle_ad_slot = \"7020159998\";\ngoogle_ad_width = 728;\ngoogle_ad_height = 90;\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"//pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n"
+          }
+        ]
+      }
+    ]
+  }
+});

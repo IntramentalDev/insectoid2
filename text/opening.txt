@@ -1,0 +1,42 @@
+Checking your travel pack for the final time you step into line.  Showing your pass to the flight attendant she gestures you ahead.  The plane is a twin engine C-1 Trader and the cabin air is fresh.  
+Within twenty minutes after takeoff, the sun disapears under the horizon.  Foggy air blankets the treeline during your descent.
+
+
+LOUDSPEAKERS: "**Red Alert Red Alert - Containment has been breached**"
+Silent alarms flash in the hangar and emergency power is keeping the essentials online.
+Jibify: How many will it take? Those things keep coming.  Why the hell havent we been able to seal those tunnel doors?? 
+Boris - Those.. Beasts.. They've chewed through EVERYTHING so far.
+Dr. Usuala: Rapid mutations allow spawn to adapt whats neccessary for a given task.  Soulja comes forward, stepping away from the hangar overwatch view port. 
+Soulja:  Why they would allow such power with no restraint? Spoken in Kenyan accent
+Dr Usuala:  The fail-safes..  something got through them
+
+Some more tinkering, and the radio crackles "::--its a conspiracy, this is the new world orders method of destroying your liberties.  
+Proof? We have drone footage of agents overseeing, and working with the insectoids--::" right as Dr Usuala swivels down the volume. 
+Usuala speaks, "I conclude you've gotten this transciever up and running?"  Soulja nods.  "Good.  Now get that weapons bench working before sunrise."
+
+
+
+
+Insectoid_Descent is a top-down pixel art wave defense game. Insectoid containment has been breached, and chaotic replication has occurred.  
+The containment tunnel entrances are about to burst, defend your base against progressively growing waves of insectoid specimens, 
+while figuring out a way to escape by rebuilding equipment via salvaging scrap metal around the area.
+
+
+Insectoid Descent:  You must defend your hideout against progressively growing waves of genetically modified insectoid abominations while figuring out a way to escape the madness.
+
+
+Future voice lines
+
+Dr Usuala - The insectoids are replicating out of control, there isnt much time.  You have around 5 minutes currently, keep the power functional until then. 
+Dr Usuala - Thats the generator.  If it gets damaged too badly, all the non-essential systems will be shut down.  Security measures supply their own energy, but wont be able to repair
+Dr.  Usuala  - Make sure to have stimpaks on hand at all times.  If you get overwhelmed you wont be able to sustain damage for very long without them. 
+Boris - Go drop some lead into those slimy bastards!
+Boris - Don't be scared, not until you run outta shells
+Boris - You better fix the Agitator up real good, dont want it getting stained
+Boris   -  Go loot the fallen for more ammo, need every bullet you can carry
+Boris - Press G to command the Turret Mechanoid.  The AI will fire the shots
+
+
+
+
+

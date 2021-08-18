@@ -1,0 +1,72 @@
+.redirect-dtorg {
+    border: 1px dotted #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    background: #fafafa;
+}
+
+.redirect-dtorg .close-button {
+  float: right;
+  background: #ddd;
+  border-radius: 6px;
+  padding: 1px 5px 1px 5px;
+  font-size: 10px;
+  color: #999;
+  cursor: pointer;
+}
+
+.redirect-dtorg .close-button:hover {
+  color: #666;
+}
+
+.redirect-dtorg h2 {
+    font-size: 11pt;
+    margin: 0;
+}
+
+.redirect-dtorg h2 a {
+    text-decoration: underline;
+    /*border: 1px outset #ddd;
+    border-radius: 7px;
+    background: white;
+    padding: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    */
+    text-decoration: none;
+}
+
+.redirect-dtorg img {
+    height: 1.5em;
+    vertical-align: middle;
+    border-radius: 10px;
+    background: white;
+    padding: 5px 8px 6px 7px;
+    box-shadow: 2px 2px 3px #ccc;
+}
+
+.redirect-dtorg img:hover {
+    box-shadow: 2px 2px 3px #aaa;
+}
+
+.redirect-dtorg p {
+    font-size: 8pt;
+    margin: 0;
+    margin-top: 0.666em;
+    color: #111;
+}
+
+.redirect-dtorg .redirect_notice {
+    margin-top: 0.666em;
+    font-size: 11pt;
+}
+
+.blurred {
+  background: #fff;
+  background: linear-gradient(transparent, white 175px);
+  -webkit-filter: blur(2px);
+  filter: blur(2px);
+  position: absolute;
+  margin-top: -10px;
+}

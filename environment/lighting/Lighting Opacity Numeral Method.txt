@@ -1,0 +1,14 @@
+Size: 36
+Scatter: 0
+Opacity: 10
+Density: 255
+
+256x256 single tile. 
+First make a giant brush filling most of the tile with light, 
+each time you click the 10 digit opacity will make it slightly darker.
+We use this to make a gradual light effect which makes the core brightest (darkest in pixel editor)
+
+Size: 36
+Scatter: 0
+Opacity: 20
+Density: 255
